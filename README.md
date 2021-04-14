@@ -15,3 +15,7 @@ Howto intro :)
 Deployment info
 
 ## How To Contribute
+
+## Copyright
+
+2021Git.Traning.
